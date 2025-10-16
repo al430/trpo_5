@@ -197,3 +197,4 @@ External commands
    flow
    lfs
    update-git-for-windows
+git
